@@ -1,0 +1,31 @@
+{
+  "name": "socket.io-adapter-cluster",
+  "version": "1.0.0",
+  "description": "Adapter for socket.io when local fork",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "zunsthy",
+      "email": "zunsthy@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo 42"
+  },
+  "files": [
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zunsthy/socket.io-adapter-cluster.git"
+  },
+  "keywords": [
+    "socket.io-adapter",
+    "cluster"
+  ],
+  "license": "MPL-2.0",
+  "dependencies": {
+    "debug": "^3.0.0",
+    "socket.io-adapter": "^1.1.0"
+  }
+}

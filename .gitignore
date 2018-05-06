@@ -1,0 +1,7 @@
+*.swp
+*.error
+*.log
+*.dat
+*.bak
+node_modules
+dist
